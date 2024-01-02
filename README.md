@@ -12,19 +12,19 @@ Wine is the beverage obtained from the total or partial alcoholic fermentation o
 
 The dataset is related to the red and white variants of the Portuguese wine "Vinho Verde". It is a unique product from the Minho region (northwest) of Portugal. Of medium alcohol content, it is particularly appreciated for its freshness (especially in summer). This dataset is publicly available for research purposes only; for more information, read Cortez et al., 2009. . For privacy and logistical reasons, only physicochemical (input) and sensory (output) variables are available (e.g., no data on grape types, wine brand, wine sales price, etc.).
 
-This dataset includes the following attributes per row:
+This dataset includes the following attributes per row: <br>
 1 - type <br>
-2 - fixed acidity
-3 - volatile acidity
-4 - citric acid
-5 - residual sugar
-6 - chlorides
-7 - free sulfur dioxide
-8 - total sulfur dioxide
-9 - density
-10 - pH
-11 - sulphates
-12 - alcohol
+2 - fixed acidity <br>
+3 - volatile acidity <br>
+4 - citric acid <br>
+5 - residual sugar <br>
+6 - chlorides <br>
+7 - free sulfur dioxide <br>
+8 - total sulfur dioxide <br>
+9 - density <br>
+10 - pH <br>
+11 - sulphates <br>
+12 - alcohol <br>
 13 - quality (score between 0 and 10)
 
 ## Objective 🎯
